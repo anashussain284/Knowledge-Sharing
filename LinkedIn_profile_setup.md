@@ -4,4 +4,4 @@
 
 1. Go to your profile section
 
-![My LinkedIn Profile](Documentation/images/Linkedin/profile.png)
+![My LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile.png)
