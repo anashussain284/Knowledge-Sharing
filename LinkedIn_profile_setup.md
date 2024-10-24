@@ -1,21 +1,47 @@
-# You can Make your linked.in account more attractive, attach resume to your linkedin profile
+# ✨ Enhance Your LinkedIn Profile by Attaching Your Resume
 
-## Follow this steps
+**Follow these steps to make your LinkedIn profile stand out and allow visitors to easily download your resume!**
 
-1. Go to your profile section
+## 📌 Step-by-Step Guide
 
-![My LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_1.png)
+### 1. Navigate to Your Profile Section
 
-2. You can click on the Red marked pen button, it will redirect into the edit page
+Click on your profile picture in the top-right corner of LinkedIn to access your profile page.
 
-![My LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_3.png)
+![Go to LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_1.png)
 
-3. Upload your latest resume to your google drive or any cloud service set visibility to public
+---
 
-4. Paste the resume link to the `Link` column
+### 2. Edit Your Profile
 
-5. You can add a title to the `Link text` column, then save
+Click the **pen icon** (highlighted below) next to your profile information to enter the edit mode.
 
-6. Anyone can download your resume in easy way
+![Edit LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_3.png)
 
-![My LinkedIn Profile](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_2.png)
+---
+
+### 3. Upload Your Resume to a Cloud Service
+
+- Upload your latest resume to **Google Drive**, **Dropbox**, or any other cloud service.
+- Ensure the visibility is set to **public** so anyone can view and download it.
+
+---
+
+### 4. Add Resume Link to Your Profile
+
+In the `Link` column, paste the URL to your uploaded resume.  
+Optionally, you can also add a title for the link in the `Link text` column.
+
+---
+
+### 5. Save Changes
+
+Once you've added the link and title, click **Save** to update your profile.
+
+---
+
+### 🎯 Your Profile is Now Resume-Ready!
+
+Anyone who visits your profile will now be able to download your resume easily!
+
+![Profile Resume Ready](https://github.com/anashussain284/Documentation/blob/main/images/Linkedin/profile_2.png)
